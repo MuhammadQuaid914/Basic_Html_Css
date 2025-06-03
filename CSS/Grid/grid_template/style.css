@@ -6,7 +6,8 @@
 }
 .container{
    height: 650px;
-    border: 2px solid red;
+    border: 2px solid #ffff;
+    gap: 5px;
     display: grid;
     grid-template-areas: 
                         "hr hr hr hr hr" 
